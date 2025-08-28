@@ -1,0 +1,16 @@
+# Core data handling
+pandas
+numpy
+pyarrow        # parquet support
+python-dotenv  # .env config loader
+
+# Web scraping (Stage 1: getdata.py)
+requests
+beautifulsoup4
+lxml           # fast HTML parser
+
+# Progress bars / CLI niceties
+tqdm
+
+# OpenAI embeddings (Stage 3: embedded.py)
+openai
